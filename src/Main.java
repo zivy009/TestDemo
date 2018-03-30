@@ -7,6 +7,7 @@ public class Main {
         try {
             ping02("heart.bchunk.com");
         } catch (Exception e) {
+            System.out.println("aaaa");
             e.printStackTrace();
         }
 //        System.out.println("Hello Wossrld!" + StringUtils.trim(" aaaa "));
